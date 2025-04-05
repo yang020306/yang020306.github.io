@@ -1,5 +1,41 @@
----
-title: "Projects"
----
+### Ernst & Young Hua Ming LLP — *Accounting Intern*  
+**Shanghai, China — July 2023**  
+Supported audit processes and financial document analysis for client accounts.
 
-My projects
+- Processed over 500 financial entries across Excel and proprietary systems with 100% accuracy  
+- Reviewed and issued 100+ inquiry and reminder letters to clients and third parties  
+- Extracted, organized, and recorded financial data including PO orders and bank statements, improving team efficiency by 15%
+
+### Pennsylvania State University — *Research Analyst (Academic Project)*  
+**State College, PA — Sep 2023 – Dec 2023**  
+Analyzed game balance in League of Legends through statistical modeling.
+
+- Investigated 8 champion groups and their crowd control vs. pick/ban rates using R and ANOVA  
+- Automated data wrangling across 166 game champions using custom R scripts  
+- Presented findings through statistical reports and visualizations to academic peers
+
+### Remote Data Research Project — *Data Analyst (Group Project)*  
+**Remote — Jan 2023 – May 2023**  
+Applied machine learning and network analysis techniques to business datasets.
+
+- Built recommendation systems using classification and clustering models on real-world datasets  
+- Conducted social network analysis to identify key influencer nodes, increasing accuracy of predictions by 20%  
+- Mined structured data from large textual corpora to reveal emerging business trends
+
+### Research Frontiers Exploration Program — *Trainee*  
+**Shanghai, China — Jul 2022 – Dec 2022**  
+Explored mathematical modeling for business problems and applied analytics methods.
+
+- Applied theoretical math and data mining to marketing scenarios  
+- Designed conceptual models for data-driven business decision-making  
+- Conducted research presentations alongside interdisciplinary teams
+
+### National Business Simulation Competition — *Project Member*  
+**Shanghai, China — Jul 2018 – Aug 2018**  
+Competed in a national entrepreneurial and business strategy simulation.
+
+- Co-developed marketing strategies and company analysis plans in a team of 5  
+- Won **1st Prize** out of 150+ teams; recognized as **Person of the Year** for performance  
+- Collaborated with business leaders and received mentorship on real-world cases
+
+

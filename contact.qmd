@@ -1,9 +1,20 @@
 ---
-title: "Contact"
+about:
+  template: solana
+  links:
+    - icon: github
+      text: yang020306
+      href: https://github.com/yang020306
+    - icon: linkedin
+      text: yanyang-he-4b265135a
+      href: https://www.linkedin.com/in/yanyang-he-4b265135a
+    - icon: envelope
+      text: yxh5436@psu.edu
+      href: mailto:yxh5436@psu.edu
+    - icon: telephone
+      text: +1-717-329-6858
+      href: tel:+17173296858
 ---
 
-Yanyang He
-
-- email [yxh5436@bu.edu](mailto://yxh5436@bu.edu)
-- [linkedin profile](https://www.linkedin.com/in/yanyang-he-4b265135a/)
-
+You may contact me via email.
+People are more than welcome to join my linkedin network.

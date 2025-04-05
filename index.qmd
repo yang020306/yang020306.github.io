@@ -1,7 +1,40 @@
 ---
-title: "Home"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+about:
+  template: solana
+  image: me.png
+  image-width: 150px
+  image-shape: round
+  links:
+    - icon: github
+      text: yang020306
+      href: https://github.com/yang020306
+    - icon: linkedin
+      text: yanyang-he-4b265135a
+      href: https://www.linkedin.com/in/yanyang-he-4b265135a
+    - icon: envelope
+      text: yxh5436@psu.edu
+      href: mailto:yxh5436@psu.edu
+    - icon: telephone
+      text: +1-717-329-6858
+      href: tel:+17173296858
+
 ---
 
-This is the personal portfolio website of Yanyang He.
+# Hi, I'm Yanyang He
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a Business Analyst with strong Mathematics backgrounds and hands-on experience.
+I hold a bachelor's degree in Mathematics from Penn State and I'm attending a post-graduate program in Business Analysis at Boston University.
+
+## About Me
+
+{{< include about.qmd >}}
+
+## Past Experiences
+
+{{< include projects.qmd >}}
+
+

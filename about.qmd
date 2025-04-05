@@ -1,8 +1,44 @@
----
-title: "About"
----
+### Education
 
-I am Yanyang He.
+#### <img src="bu.svg" alt="BU logo" style="height: 25px; vertical-align: middle;"> Boston University  
+**Postgraduate Program: Business Analysis**  
+📍 Boston, MA, USA — *Sep 2024 – Present*
 
-I am currently a post-graduate student at Boston University (BU) major in Business Analysis.
-Before studying in BU, I obtained my Bachelor of Science degree at Pennsylvania State University (PSU).
+
+#### <img src="psu.svg" alt="PSU logo" style="height: 25px; vertical-align: middle;"> Pennsylvania State University  
+**Bachelor of Science in Mathematics (GPA: 2.93/4.0)**  
+📍 State College, PA, USA — *Sep 2020 – Jun 2024*
+
+### Awards
+
+- First Prize – National Business Simulation Competition  
+- Person of the Year – Business Sim Competition  
+- Dean's List – Dec 2021  
+- 5th Place – 100m Track & Field (Wuxi)
+
+### Technical Skills
+
+#### Programming
+**Python, Java**
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 85%;">85%</div>
+</div>
+
+#### Data Visualization
+**R (ggplot), Python (Plotly), Excel Charts**
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 75%;">75%</div>
+</div>
+
+#### Data Analysis
+**R, PySpark, Pandas, Excel VBA**
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 80%;">80%</div>
+</div>
+
+#### Domain Knowledge
+**Business Modeling, Simulation, Social Network Analysis**
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 70%;">70%</div>
+</div>
+
