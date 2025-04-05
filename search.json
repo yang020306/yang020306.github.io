@@ -2,29 +2,43 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Yanyang He",
     "section": "",
-    "text": "My projects"
+    "text": "Ernst & Young Hua Ming LLP — Accounting Intern\nShanghai, China — July 2023\nSupported audit processes and financial document analysis for client accounts.\n\nProcessed over 500 financial entries across Excel and proprietary systems with 100% accuracy\n\nReviewed and issued 100+ inquiry and reminder letters to clients and third parties\n\nExtracted, organized, and recorded financial data including PO orders and bank statements, improving team efficiency by 15%\n\n\n\nPennsylvania State University — Research Analyst (Academic Project)\nState College, PA — Sep 2023 – Dec 2023\nAnalyzed game balance in League of Legends through statistical modeling.\n\nInvestigated 8 champion groups and their crowd control vs. pick/ban rates using R and ANOVA\n\nAutomated data wrangling across 166 game champions using custom R scripts\n\nPresented findings through statistical reports and visualizations to academic peers\n\n\n\nRemote Data Research Project — Data Analyst (Group Project)\nRemote — Jan 2023 – May 2023\nApplied machine learning and network analysis techniques to business datasets.\n\nBuilt recommendation systems using classification and clustering models on real-world datasets\n\nConducted social network analysis to identify key influencer nodes, increasing accuracy of predictions by 20%\n\nMined structured data from large textual corpora to reveal emerging business trends\n\n\n\nResearch Frontiers Exploration Program — Trainee\nShanghai, China — Jul 2022 – Dec 2022\nExplored mathematical modeling for business problems and applied analytics methods.\n\nApplied theoretical math and data mining to marketing scenarios\n\nDesigned conceptual models for data-driven business decision-making\n\nConducted research presentations alongside interdisciplinary teams\n\n\n\nNational Business Simulation Competition — Project Member\nShanghai, China — Jul 2018 – Aug 2018\nCompeted in a national entrepreneurial and business strategy simulation.\n\nCo-developed marketing strategies and company analysis plans in a team of 5\n\nWon 1st Prize out of 150+ teams; recognized as Person of the Year for performance\n\nCollaborated with business leaders and received mentorship on real-world cases"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Hi, I’m Yanyang He",
     "section": "",
-    "text": "This is the personal portfolio website of Yanyang He.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a Business Analyst with strong Mathematics backgrounds and hands-on experience. I hold a bachelor’s degree in Mathematics from Penn State and I’m attending a post-graduate program in Business Analysis at Boston University.\n\n\n\n\n\n\nPostgraduate Program: Business Analysis\n📍 Boston, MA, USA — Sep 2024 – Present\n\n\n\nBachelor of Science in Mathematics (GPA: 2.93/4.0)\n📍 State College, PA, USA — Sep 2020 – Jun 2024\n\n\n\n\n\nFirst Prize – National Business Simulation Competition\n\nPerson of the Year – Business Sim Competition\n\nDean’s List – Dec 2021\n\n5th Place – 100m Track & Field (Wuxi)\n\n\n\n\n\n\nPython, Java\n\n\n85%\n\n\n\n\n\nR (ggplot), Python (Plotly), Excel Charts\n\n\n75%\n\n\n\n\n\nR, PySpark, Pandas, Excel VBA\n\n\n80%\n\n\n\n\n\nBusiness Modeling, Simulation, Social Network Analysis\n\n\n70%\n\n\n\n\n\n\n\n\n\nShanghai, China — July 2023\nSupported audit processes and financial document analysis for client accounts.\n\nProcessed over 500 financial entries across Excel and proprietary systems with 100% accuracy\n\nReviewed and issued 100+ inquiry and reminder letters to clients and third parties\n\nExtracted, organized, and recorded financial data including PO orders and bank statements, improving team efficiency by 15%\n\n\n\n\nState College, PA — Sep 2023 – Dec 2023\nAnalyzed game balance in League of Legends through statistical modeling.\n\nInvestigated 8 champion groups and their crowd control vs. pick/ban rates using R and ANOVA\n\nAutomated data wrangling across 166 game champions using custom R scripts\n\nPresented findings through statistical reports and visualizations to academic peers\n\n\n\n\nRemote — Jan 2023 – May 2023\nApplied machine learning and network analysis techniques to business datasets.\n\nBuilt recommendation systems using classification and clustering models on real-world datasets\n\nConducted social network analysis to identify key influencer nodes, increasing accuracy of predictions by 20%\n\nMined structured data from large textual corpora to reveal emerging business trends\n\n\n\n\nShanghai, China — Jul 2022 – Dec 2022\nExplored mathematical modeling for business problems and applied analytics methods.\n\nApplied theoretical math and data mining to marketing scenarios\n\nDesigned conceptual models for data-driven business decision-making\n\nConducted research presentations alongside interdisciplinary teams\n\n\n\n\nShanghai, China — Jul 2018 – Aug 2018\nCompeted in a national entrepreneurial and business strategy simulation.\n\nCo-developed marketing strategies and company analysis plans in a team of 5\n\nWon 1st Prize out of 150+ teams; recognized as Person of the Year for performance\n\nCollaborated with business leaders and received mentorship on real-world cases"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m Yanyang He",
+    "section": "",
+    "text": "Postgraduate Program: Business Analysis\n📍 Boston, MA, USA — Sep 2024 – Present\n\n\n\nBachelor of Science in Mathematics (GPA: 2.93/4.0)\n📍 State College, PA, USA — Sep 2020 – Jun 2024\n\n\n\n\n\nFirst Prize – National Business Simulation Competition\n\nPerson of the Year – Business Sim Competition\n\nDean’s List – Dec 2021\n\n5th Place – 100m Track & Field (Wuxi)\n\n\n\n\n\n\nPython, Java\n\n\n85%\n\n\n\n\n\nR (ggplot), Python (Plotly), Excel Charts\n\n\n75%\n\n\n\n\n\nR, PySpark, Pandas, Excel VBA\n\n\n80%\n\n\n\n\n\nBusiness Modeling, Simulation, Social Network Analysis\n\n\n70%"
+  },
+  {
+    "objectID": "index.html#past-experiences",
+    "href": "index.html#past-experiences",
+    "title": "Hi, I’m Yanyang He",
+    "section": "",
+    "text": "Shanghai, China — July 2023\nSupported audit processes and financial document analysis for client accounts.\n\nProcessed over 500 financial entries across Excel and proprietary systems with 100% accuracy\n\nReviewed and issued 100+ inquiry and reminder letters to clients and third parties\n\nExtracted, organized, and recorded financial data including PO orders and bank statements, improving team efficiency by 15%\n\n\n\n\nState College, PA — Sep 2023 – Dec 2023\nAnalyzed game balance in League of Legends through statistical modeling.\n\nInvestigated 8 champion groups and their crowd control vs. pick/ban rates using R and ANOVA\n\nAutomated data wrangling across 166 game champions using custom R scripts\n\nPresented findings through statistical reports and visualizations to academic peers\n\n\n\n\nRemote — Jan 2023 – May 2023\nApplied machine learning and network analysis techniques to business datasets.\n\nBuilt recommendation systems using classification and clustering models on real-world datasets\n\nConducted social network analysis to identify key influencer nodes, increasing accuracy of predictions by 20%\n\nMined structured data from large textual corpora to reveal emerging business trends\n\n\n\n\nShanghai, China — Jul 2022 – Dec 2022\nExplored mathematical modeling for business problems and applied analytics methods.\n\nApplied theoretical math and data mining to marketing scenarios\n\nDesigned conceptual models for data-driven business decision-making\n\nConducted research presentations alongside interdisciplinary teams\n\n\n\n\nShanghai, China — Jul 2018 – Aug 2018\nCompeted in a national entrepreneurial and business strategy simulation.\n\nCo-developed marketing strategies and company analysis plans in a team of 5\n\nWon 1st Prize out of 150+ teams; recognized as Person of the Year for performance\n\nCollaborated with business leaders and received mentorship on real-world cases"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Yanyang He",
     "section": "",
-    "text": "I am Yanyang He.\nI am currently a post-graduate student at Boston University (BU) major in Business Analysis. Before studying in BU, I obtained my Bachelor of Science degree at Pennsylvania State University (PSU)."
+    "text": "Education\n\n Boston University\nPostgraduate Program: Business Analysis\n📍 Boston, MA, USA — Sep 2024 – Present\n\n\n Pennsylvania State University\nBachelor of Science in Mathematics (GPA: 2.93/4.0)\n📍 State College, PA, USA — Sep 2020 – Jun 2024\n\n\n\nAwards\n\nFirst Prize – National Business Simulation Competition\n\nPerson of the Year – Business Sim Competition\n\nDean’s List – Dec 2021\n\n5th Place – 100m Track & Field (Wuxi)\n\n\n\nTechnical Skills\n\nProgramming\nPython, Java\n\n\n85%\n\n\n\n\nData Visualization\nR (ggplot), Python (Plotly), Excel Charts\n\n\n75%\n\n\n\n\nData Analysis\nR, PySpark, Pandas, Excel VBA\n\n\n80%\n\n\n\n\nDomain Knowledge\nBusiness Modeling, Simulation, Social Network Analysis\n\n\n70%"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "Yanyang He",
     "section": "",
-    "text": "Yanyang He\n\nemail yxh5436@bu.edu\nlinkedin profile"
+    "text": "You may contact me via email. People are more than welcome to join my linkedin network."
   }
 ]
