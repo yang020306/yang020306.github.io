@@ -2,9 +2,7 @@
 title: "CV"
 ---
 
-### Embedded PDF
-
 ```{=html}
-<iframe src="cv" width="100%" height="800px"></iframe>
+<iframe src="cv.pdf" width="100%" height="800px"></iframe>
 ```
 
