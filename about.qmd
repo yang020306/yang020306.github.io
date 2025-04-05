@@ -2,4 +2,7 @@
 title: "About"
 ---
 
-This is the personal portfolio website of Yanyang He's.
+I am Yanyang He.
+
+I am currently a post-graduate student at Boston University (BU) major in Business Analysis.
+Before studying in BU, I obtained my Bachelor of Science degree at Pennsylvania State University (PSU).

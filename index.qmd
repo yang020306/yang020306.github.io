@@ -1,7 +1,7 @@
 ---
-title: "lab"
+title: "Home"
 ---
 
-This is a Quarto website.
+This is the personal portfolio website of Yanyang He.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
